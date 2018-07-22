@@ -1,0 +1,33 @@
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\bin\Debug\netcoreapp2.1\Biziboards Admin.deps.json
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\bin\Debug\netcoreapp2.1\Biziboards Admin.runtimeconfig.json
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\bin\Debug\netcoreapp2.1\Biziboards Admin.runtimeconfig.dev.json
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\bin\Debug\netcoreapp2.1\Biziboards Admin.dll
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Biziboards Admin.csprojAssemblyReference.cache
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Biziboards Admin.csproj.CoreCompileInputs.cache
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Biziboards Admin.RazorAssemblyInfo.cache
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Biziboards Admin.RazorAssemblyInfo.cs
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Biziboards Admin.AssemblyInfoInputs.cache
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Biziboards Admin.AssemblyInfo.cs
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Biziboards Admin.TagHelpers.input.cache
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Biziboards Admin.TagHelpers.output.cache
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Biziboards Admin.RazorCoreGenerate.cache
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Biziboards Admin.RazorTargetAssemblyInfo.cache
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Biziboards Admin.RazorTargetAssemblyInfo.cs
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\bin\Debug\netcoreapp2.1\Biziboards Admin.pdb
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\bin\Debug\netcoreapp2.1\Biziboards Admin.Views.dll
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\bin\Debug\netcoreapp2.1\Biziboards Admin.Views.pdb
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Biziboards Admin.Views.pdb
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Biziboards Admin.dll
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Biziboards Admin.pdb
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Biziboards Admin.csproj.CopyComplete
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Razor\Views\Merchants\Create.g.cshtml.cs
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Razor\Views\Merchants\Delete.g.cshtml.cs
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Razor\Views\Merchants\Details.g.cshtml.cs
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Razor\Views\Merchants\Edit.g.cshtml.cs
+C:\Users\codyj\Documents\MSDN Projects\ASP.NET\Biziboards Admin\Biziboards Admin\obj\Debug\netcoreapp2.1\Razor\Views\Merchants\Index.g.cshtml.cs
