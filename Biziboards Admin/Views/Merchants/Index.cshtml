@@ -41,46 +41,48 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Information)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.PhoneNumber)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Location)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.LogoUrl)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IsPaying)
-            </td>
-            <td>
-                @{
-                    try
-                    {
-                        string listSerialized = item.OffersList;
-                        List<Offers> offers = JsonConvert.DeserializeObject<List<Offers>>(listSerialized);
-                        Html.Raw("Offers: " + offers.Count);
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Information)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Location)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LogoUrl)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsPaying)
+                </td>
+                <td>
+                    @{
+                        try
+                        {
+                            string listSerialized = item.OffersList;
+                            List<Offers> offers = JsonConvert.DeserializeObject<List<Offers>>(listSerialized);
+                            //Html.Raw("Offers: " + offers.Count);
+                            Html.DisplayText("Offers: " + offers.Count);
+                        }
+                        catch (NullReferenceException)
+                        {
+                            Html.Display("Error retrieving offers");
+                        }
                     }
-                    catch (NullReferenceException)
-                    {
-                        Html.Raw("Error retrieving offers");
-                    }
-                }
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
